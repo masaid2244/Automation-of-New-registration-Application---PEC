@@ -1,5 +1,5 @@
 # Engineer Registration Portal Automation 
-# New Application (Engineer Registration)
+# New Application (Engineer Registration) PEC
 
 This project automates the engineer registration process on PEC portal using **Python** and **Selenium**. The goal of this project is to simplify and accelerate the process of registering a new engineer by automating repetitive steps involved in the registration of application submission.
 
